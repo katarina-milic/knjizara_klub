@@ -1,0 +1,36 @@
+body,html{
+    background: url('./image/knjige1.jpg') no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+a{
+    color:white
+}
+
+a:hover{
+    color:wheat;
+}
+
+table{
+    color: rgb(138, 43, 226);
+}
+
+table thead{
+    background-color: blueviolet !important;
+    color: white;
+}
+
+form{
+    background-color: rgba(138, 43, 226,0.7);
+    padding: 10px;
+    border-radius: 20px;
+}
+nav{
+    height: 5vh;
+    background-color: teal;
+}
+
+.content{
+    height: 95vh;
+}
